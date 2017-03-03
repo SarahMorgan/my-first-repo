@@ -7,3 +7,4 @@ It's a repository about setting up GitHub.
 ##rezvan's comment
 
 Comment added from laptop
+Comment added from laptop as a branch
